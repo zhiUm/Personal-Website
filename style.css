@@ -1,0 +1,46 @@
+body {
+  font-family: serif;
+  color:#A569BD;
+  background-image: url(https://www.teahub.io/photos/full/135-1352811_starry-night-sky-wallpaper.jpg);  
+  background-position: fixed; 
+  background-repeat: no-repeat; 
+  background-size: 100%; 
+
+  max-width: 20 em;
+  border: 5px solid rgb(33, 156, 33);
+  box-shadow: 5px 5px rgb(33, 156, 33);
+  text-align: center;
+  padding: 60px;
+  margin-bottom: 5vx;
+  margin-top: 5vw;
+  margin-left: 15vw;
+  margin-right: 15vw;
+ }
+
+html {
+  margin: 15 px;
+}
+
+.social a {
+text-decoration: none;
+}
+
+.social i {
+  margin: 2vw;
+}
+
+.social a:hover {
+  opacity: 8;
+}
+
+.social .instagram {
+  color: lightseagreen;
+}
+
+.social .linkedin {
+  color: lightskyblue;
+}
+
+.social .mailto {
+  color: lightsteelblue;
+}
