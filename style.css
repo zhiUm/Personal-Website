@@ -4,13 +4,13 @@ body {
   background-image: url(https://www.teahub.io/photos/full/135-1352811_starry-night-sky-wallpaper.jpg);  
   background-position: fixed; 
   background-repeat: no-repeat; 
-  background-size: 100%; 
+  background-size: 100% 100%; 
 
-  max-width: 20 em;
+  max-width: 40 em;
   border: 5px solid rgb(33, 156, 33);
   box-shadow: 5px 5px rgb(33, 156, 33);
   text-align: center;
-  padding: 60px;
+  padding: 15px;
   margin-bottom: 5vx;
   margin-top: 5vw;
   margin-left: 15vw;
